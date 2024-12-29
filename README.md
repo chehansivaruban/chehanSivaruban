@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! </h3>
 <hr />
 <h3 align="center">
-  I am Chehan Sivaruban, You can call me <b>CHIKA</b>, a driven and self-motivated Software Engineering Undergraduate. A person who is both energetic and responsible, as well as capable of working in a team. I've always been a problem-solver and a creative thinker. I prefer to come up with fresh ideas employing the most up-to-date methods and techniques.
+  I am Chehan Sivaruban, You can call me <b>CHIKA</b>, a driven and self-motivated Software Engineer A person who is both energetic and responsible, as well as capable of working in a team. I've always been a problem-solver and a creative thinker. I prefer to come up with fresh ideas employing the most up-to-date methods and techniques.
 </h3>
 <hr />
 
