@@ -119,12 +119,6 @@
   <a href="https://github.com/chehanSivaruban/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=chehanSivaruban&show_icons=true&include_all_commits=true&theme=material-palenight"
-      alt="chehanSivaruban github stats"
-    /> </a
-  ><a href="https://github.com/chehanSivaruban/github-readme-stats">
-    <img
-      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehanSivaruban&layout=compact&theme=material-palenight"
     />
   </a>
